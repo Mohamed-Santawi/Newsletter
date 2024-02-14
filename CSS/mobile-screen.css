@@ -1,0 +1,54 @@
+/* Start Main Page Style */
+body {
+  background-color: #fff;
+}
+.container {
+  width: 100%;
+  height: auto;
+  flex-direction: column;
+  margin: 0;
+  padding: 0;
+}
+.text {
+  order: 2;
+}
+.title-para h2 {
+  font-size: 2rem;
+  letter-spacing: 0.5px;
+}
+.title-para p {
+  font-size: 0.84rem;
+}
+.list img {
+  width: 0.7rem;
+}
+.list p {
+  font-size: 0.8rem;
+  margin-left: 0.6rem;
+}
+.email input {
+  width: 95%;
+  padding: 0.85rem;
+}
+.btn button {
+  padding: 1rem 2rem;
+  width: 95%;
+}
+.attribution {
+  padding: 0 2rem;
+  margin-top: 0;
+  margin-bottom: 1rem;
+  font-size: 0.9rem;
+  color: #000;
+}
+.attribution a {
+  color: blue;
+}
+.image {
+  order: 1;
+  width: 100%;
+}
+.image img {
+  width: 100%;
+}
+/* End Main Page Style */
